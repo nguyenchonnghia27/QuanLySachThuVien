@@ -1,4 +1,3 @@
-package QuanLySachThuVien;
 import java.util.Scanner;
 
 public class BTTuan5 {
